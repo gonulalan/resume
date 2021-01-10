@@ -1,0 +1,107 @@
+/* Tag Selectors */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Pacifico', cursive;
+  font-size: 5em;
+}
+
+h2 {
+  color: #40514e;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Pacifico', cursive;
+}
+
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+a {
+  text-decoration: none;
+  color: #40514e;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e4f9f5;
+  border-width: 20px;
+  width: 5%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+tr {
+  text-align: left;
+}
+
+/* Class Selectors */
+.top-container {
+  width: 100%;
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.middle-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.bottom-container {
+  background-color: #e4f9f5;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.cloudImage {
+  width: 10%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.section-icon {
+  height: 150px;
+}
+
+.monospace {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.developer {
+  margin: 0;
+  font-size: 2em;
+}
+
+.skills-table {
+  margin: auto;
+  border-spacing: 10px;
+  border-collapse: separate;
+}
+
+.phone-languages {
+  font-size: small;
+  color: #40514e;
+}
+
+/* Id Selectors */
